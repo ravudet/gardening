@@ -17,6 +17,10 @@
 
 - water bed, add compost, mix into soil
 
+#### 04/01 put copper lining around garden bedds
+
+- https://www.amazon.com/copper-tapes-conductive-electrical-tape/dp/B01I1XNY1E/
+
 #### last saturday of march: prune trees and bushes
 
 #### first saturday of april: cut grass
