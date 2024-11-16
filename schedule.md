@@ -79,6 +79,7 @@
 #### 08/20 harvest green beans
 #### 08/21 plant broccoli (2 beds in back yard)
 
+- double up on seeds
 - single bed: 12 inches from edge, every 24 inches; 12 inches from edge, every 24 inches; 8 seeds
 - 16 total seeds
 
