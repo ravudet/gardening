@@ -87,6 +87,9 @@
 
 #### 08/30 harvest peas
 #### 09/02 harvest garlic (you will need to cure it)
+
+- put the garlic in a mesh bag and hang it in the pantry
+
 #### 09/05 plant peas (2 beds in back yard)
 
 - single bed: 1 inch from edge, every 2 inches; 192 seeds
