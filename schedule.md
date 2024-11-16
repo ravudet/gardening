@@ -24,7 +24,7 @@
 
 #### 04/05 plant green beans (2 beds in back yard)
 
-- single bed: 1.5 inches from edge, every 3 inches; 6 inches from edge, every 12 inches; 128 seeds
+- single bed: 1.5 inches from edge, every 3 inches; 6 inches from edge, every 9 inches; 128 seeds
 - 256 total seeds
 
 #### 04/05 plant peas (2 beds in back yard)
