@@ -15,6 +15,7 @@
 #### 03/31 turn compost
 #### 04/01 spread compost
 
+- do this for half of the beds, and use soil for the other half
 - water bed, add compost, mix into soil
 
 #### 04/01 put copper lining around garden bedds
