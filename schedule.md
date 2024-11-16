@@ -88,7 +88,8 @@
 #### 08/30 harvest peas
 #### 09/02 harvest garlic (you will need to cure it)
 
-- put the garlic in a mesh bag and hang it in the pantry
+- clips stalks down to 1 inch
+- put in a mesh bag and hang it in the pantry
 
 #### 09/05 plant peas (2 beds in back yard)
 
