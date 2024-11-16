@@ -14,7 +14,9 @@
 
 - water bed, add compost, mix into soil
 
-#### 04/02 cut grass
+#### last saturday of march: prune trees and bushes
+
+#### first saturday of april: cut grass
 
 - these clippings will be the last contribution to the current compost bin
 
@@ -97,9 +99,16 @@
 
 #### 10/05 harvest short carrots
 #### 11/02 plant garlic
+#### second saturday of november: clean roof
+
+- clean off roof
+- clean out gutters
+- clean up debris from the ground
+
 #### 11/15 harvest peas
 #### 11/15 harvest broccoli
 #### 11/16 start looking for seeds
+#### third saturday of november: cut grass for last time of the season
 
 ### seed counts
 - Radishes
