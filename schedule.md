@@ -16,6 +16,12 @@
 
 - these clippings will be the last contribution to the current compost bin
 
+#### 04/04 get 7 basil plants from a nursery
+
+#### 04/05 plant basil (2 beds on side of house, same ones as black beans; 9 inches from edge, every 16 inches)
+
+- prune and harvest regularly at 6 inches tall; water every 3 days
+
 #### 04/05 plant black beans (2 beds on side of house)
 
 - left bed: 1.5 inches from edge, every 3 inches; 6 inches from edge, every 16 inches; 70 seeds
@@ -35,10 +41,6 @@
 #### 04/05 plant long carrots (square bed in back yard)
 
 - 1 inch from edge, every 2 inches; 6 inches from edge, every 12 inches; 96 total seeds
-
-#### 04/05 plant basil (in front of house, 24 inches from driveway, 24 inches from walkway)
-
-- prune and harvest regularly at 6 inches tall; water every 3 days
 
 #### 04/10 divide chives (in front of house, 18 inches from grass, 72 inches from driveway)
 
