@@ -109,6 +109,11 @@
 #### 11/15 harvest broccoli
 #### 11/16 start looking for seeds
 #### third saturday of november: cut grass for last time of the season
+#### fourth saturday of november: lawn mower maintenance
+
+- change oil
+- change spark plug
+- change air filter
 
 ### seed counts
 - Radishes
