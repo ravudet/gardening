@@ -127,6 +127,8 @@
 - change spark plug
 - change air filter
 
+#### first saturday of december: incorporate notes from the year into the gardening schedule for next year
+
 ### seed counts
 - Radishes
 - Chives
