@@ -5,7 +5,10 @@
 
 - prune and harvest regularly at 6 inches tall and bushy; harvest outside in, and not more than 1/3 of the leaves at a time; water 1-2 inches of water per week if not received from rain
 
-#### 03/18 schedule all of your vacation days for the season; you'll want to schedule a vacation day after weekends where you did gardening
+#### 03/18 schedule all of your vacation days for the season
+
+- spreading compost should be the first day taken off
+- you'll want to schedule a vacation day after weekends where you did gardening
 
 #### 03/29 turn compost
 #### 03/30 turn compost
