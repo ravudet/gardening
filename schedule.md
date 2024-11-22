@@ -126,6 +126,7 @@
 - change oil
 - change spark plug
 - change air filter
+- order stuff for next year
 
 #### first saturday of december: incorporate notes from the year into the gardening schedule for next year
 
