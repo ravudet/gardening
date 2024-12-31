@@ -130,6 +130,13 @@
 
 #### first saturday of december: incorporate notes from the year into the gardening schedule for next year
 
+#### 12/28 buy seeds
+
+- green beans
+- long carrots (don't buy if you already have an unopened pack)
+- short carrots (don't buy if you already have an unopened pack)
+- broccoli (don't buy if you already have an unopened pack)
+
 ### seed counts
 - Radishes
 - Chives
