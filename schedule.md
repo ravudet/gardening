@@ -135,12 +135,12 @@
 - Chives
 - Basil
 - Parsley
-- Black beans: 130
-- Green beans (per pack: 42, 40, 43): 512
-- Peas (120 per pack): 1152
-- Long Carrots: 192
-- Short carrots: 224
-- Broccoli: 16
+- Black beans (79 seeds per 14g pack): 130
+- Green beans (37 seeds per 8g pack): 512
+- Peas: 1152
+- Long Carrots (530 per 700mg pack): 192
+- Short carrots (530 per 700mg pack): 224
+- Broccoli (206 per 700mg pack): 16
 
 ### cooking
 Steamed green beans
