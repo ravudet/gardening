@@ -136,6 +136,8 @@
 - long carrots (don't buy if you already have an unopened pack)
 - short carrots (don't buy if you already have an unopened pack)
 - broccoli (don't buy if you already have an unopened pack)
+- chives (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
+- basil (these may not be available yet; they will definitely become available by 01/04; record when they do become available)
 
 ### seed counts
 - Chives (no variety)
