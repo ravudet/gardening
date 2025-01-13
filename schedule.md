@@ -142,7 +142,7 @@
 
 ### seed counts
 - Chives (no variety)
-- Basil (sweet basil)
+- Basil (sweet basil) (130 seeds per TODO pack)
 - Parsley (flat italian)
 - Black beans (black turtle bush) (79 seeds per 14g pack): 130
 - Green beans (blue lake 156) (37 seeds per 8g pack): 512
