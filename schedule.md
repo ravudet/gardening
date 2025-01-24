@@ -141,9 +141,9 @@
 - parsley (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
 
 ### seed counts
-- Chives (no variety)
-- Basil (sweet basil) (130 seeds per TODO pack)
-- Parsley (flat italian)
+- Chives (no variety) (180 seeds per 250mg pack)
+- Basil (sweet basil) (130 seeds per 175mg pack)
+- Parsley (flat italian) (284 seeds per 600mg pack)
 - Black beans (black turtle bush) (79 seeds per 14g pack): 130
 - Green beans (blue lake 156) (37 seeds per 8g pack): 512
 - Peas (wando, or alaska if necessary (in 2025, alaska became available 01/11)): 1152
