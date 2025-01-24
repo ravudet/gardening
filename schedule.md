@@ -1,6 +1,10 @@
 ## Garden schedule
 
 ### Planting (when harvesting, check photos for what you did when planting to make adjustments):
+#### 02/18 plant basil
+
+- TODO record where, how many, etc.
+
 #### 02/21 plant parsley (in front of house, 18 inches from grass, 24 inches from driveway)
 
 - prune and harvest regularly at 6 inches tall and bushy; harvest outside in, and not more than 1/3 of the leaves at a time; water 1-2 inches of water per week if not received from rain
