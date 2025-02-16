@@ -150,7 +150,7 @@
 - Parsley (flat italian) (284 seeds per 600mg pack)
 - Black beans (black turtle bush) (79 seeds per 14g pack): 130
 - Green beans (blue lake 156) (37 seeds per 8g pack): 512
-- Peas (wando, or alaska if necessary (in 2025, alaska became available 01/11)): 1152
+- Peas (wando, or alaska if necessary (in 2025, alaska became available 01/11)) (alaska: 42 seeds per 8g pack): 1152
 - Long Carrots (long imperator 58) (530 per 700mg pack): 192
 - Short carrots (danvers) (530 per 700mg pack): 224
 - Broccoli (decicco) (206 per 700mg pack): 16
