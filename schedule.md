@@ -1,9 +1,9 @@
 ## Garden schedule
 
 ### Planting (when harvesting, check photos for what you did when planting to make adjustments):
-#### 02/18 plant basil
+#### 02/18 plant basil  (2 beds on side of house, same ones as black beans; 9 inches from edge, every 16 inches; single row 9 inches from edge)
 
-- TODO record where, how many, etc.
+- prune and harvest regularly at 6 inches tall; water every 3 days
 
 #### 02/21 plant parsley (in front of house, 18 inches from grass, 24 inches from driveway)
 
