@@ -13,6 +13,7 @@
 
 - spreading compost should be the first day taken off
 - you'll want to schedule a vacation day after weekends where you did gardening
+- start weeding again the first saturday after this
 
 #### 03/29 turn compost
 #### 03/30 turn compost
