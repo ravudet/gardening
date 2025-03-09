@@ -149,9 +149,9 @@
 - Chives (no variety) (180 seeds per 250mg pack)
 - Basil (sweet basil) (130 seeds per 175mg pack)
 - Parsley (flat italian) (284 seeds per 600mg pack)
-- Black beans (black turtle bush) (79 seeds per 14g pack): 130
+- Black beans (black turtle bush) (in 2025, *lowe's* had these available 2025-03-09) (79 seeds per 14g pack) (46 seeds per 7g pack): 130
 - Green beans (blue lake 156) (37 seeds per 8g pack): 512
-- Peas (wando, or alaska if necessary (in 2025, alaska became available 01/11)) (alaska: 42 seeds per 8g pack): 1152
+- Peas (wando, or alaska if necessary (in 2025, alaska became available 01/11) (in 2025, *lowe's* had wando available 2025-03-09)) (wando: 36 seeds per 8g pack) (alaska: 42 seeds per 8g pack): 1152
 - Long Carrots (long imperator 58) (530 per 700mg pack): 192
 - Short carrots (danvers) (530 per 700mg pack): 224
 - Broccoli (decicco) (206 per 700mg pack): 16
