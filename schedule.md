@@ -135,6 +135,8 @@
 
 #### first saturday of december: incorporate notes from the year into the gardening schedule for next year
 
+- make sure to include durations that each activity took so that you can better fit your vacation days
+
 #### 12/28 buy seeds + start looking for new seeds
 
 - green beans
