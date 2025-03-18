@@ -135,7 +135,7 @@
 
 #### first saturday of december: incorporate notes from the year into the gardening schedule for next year
 
-#### 12/28 buy seeds
+#### 12/28 buy seeds + start looking for new seeds
 
 - green beans
 - long carrots (don't buy if you already have an unopened pack)
