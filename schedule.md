@@ -18,6 +18,9 @@
 #### 03/29 turn compost
 #### 03/30 turn compost
 #### 03/31 turn compost
+
+#### last saturday of march: prune trees and bushes
+
 #### 04/01 spread compost
 
 - do this for half of the beds, and use soil for the other half
@@ -26,8 +29,6 @@
 #### 04/01 put copper lining around garden bedds
 
 - https://www.amazon.com/copper-tapes-conductive-electrical-tape/dp/B01I1XNY1E/
-
-#### last saturday of march: prune trees and bushes
 
 #### first saturday of april: cut grass
 
