@@ -119,9 +119,12 @@
 #### 11/02 plant garlic
 #### second saturday of november: clean roof
 
+- take down flags
+- cover air conditioning
 - clean off roof
 - clean out gutters
 - clean up debris from the ground
+- re-hang flags
 
 #### 11/15 harvest peas
 #### 11/15 harvest broccoli
