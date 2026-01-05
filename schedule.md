@@ -10,8 +10,8 @@
     - long carrots (don't buy if you already have an unopened pack)
     - short carrots (don't buy if you already have an unopened pack)
     - broccoli (don't buy if you already have an unopened pack)
-    - chives (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
-    - basil (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/04; record when they do become available)
+    - chives (don't buy if you already have an unopened pack)
+    - basil (don't buy if you already have an unopened pack)
     - parsley (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
 
 ### seed counts
@@ -21,8 +21,8 @@
 - Long Carrots (long imperator 58) (530 per 700mg pack): 192
 - Short carrots (danvers) (530 per 700mg pack): 224
 - Broccoli (decicco) (206 per 700mg pack): 16
-- Chives (no variety) (180 seeds per 250mg pack)
-- Basil (sweet basil) (130 seeds per 175mg pack)
+- Chives (no variety) (180 seeds per 250mg pack) (in 2025, these became available 01/11)
+- Basil (sweet basil) (130 seeds per 175mg pack) (in 2025, these became available 01/04)
 - Parsley (flat italian) (284 seeds per 600mg pack)
 - Black beans (black turtle bush) (in 2025, *lowe's* had these available 2025-03-09) (79 seeds per 14g pack) (46 seeds per 7g pack): 130
 
