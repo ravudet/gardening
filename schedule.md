@@ -1,6 +1,31 @@
 ## Garden schedule
 
 ### Planting (when harvesting, check photos for what you did when planting to make adjustments):
+
+#### 01/04 buy seeds + start looking for new seeds
+
+- check your current seed library and use [seed counts](#seed-counts) to see how many packs of each you need to be buy
+    - green beans
+    - peas
+    - long carrots (don't buy if you already have an unopened pack)
+    - short carrots (don't buy if you already have an unopened pack)
+    - broccoli (don't buy if you already have an unopened pack)
+    - chives (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
+    - basil (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/04; record when they do become available)
+    - parsley (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
+
+### seed counts
+
+- Green beans (blue lake 156) (37 seeds per 8g pack): 512
+- Peas (wando, or alaska if necessary (in 2025, alaska became available 01/11) (in 2025, *lowe's* had wando available 2025-03-09)) (wando: 36 seeds per 8g pack) (alaska: 42 seeds per 8g pack): 1152
+- Long Carrots (long imperator 58) (530 per 700mg pack): 192
+- Short carrots (danvers) (530 per 700mg pack): 224
+- Broccoli (decicco) (206 per 700mg pack): 16
+- Chives (no variety) (180 seeds per 250mg pack)
+- Basil (sweet basil) (130 seeds per 175mg pack)
+- Parsley (flat italian) (284 seeds per 600mg pack)
+- Black beans (black turtle bush) (in 2025, *lowe's* had these available 2025-03-09) (79 seeds per 14g pack) (46 seeds per 7g pack): 130
+
 #### 02/18 plant basil  (2 beds on side of house, same ones as black beans; 9 inches from edge, every 16 inches; single row 9 inches from edge)
 
 - prune and harvest regularly at 6 inches tall; water every 3 days
@@ -139,30 +164,6 @@
 #### first saturday of december: incorporate notes from the year into the gardening schedule for next year
 
 - make sure to include durations that each activity took so that you can better fit your vacation days
-
-#### 12/28 buy seeds + start looking for new seeds
-
-- check your current seed library and use [seed counts](#seed-counts) to see how many packs of each you need to be buy
-    - green beans
-    - peas
-    - long carrots (don't buy if you already have an unopened pack)
-    - short carrots (don't buy if you already have an unopened pack)
-    - broccoli (don't buy if you already have an unopened pack)
-    - chives (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
-    - basil (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/04; record when they do become available)
-    - parsley (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
-
-### seed counts
-
-- Green beans (blue lake 156) (37 seeds per 8g pack): 512
-- Peas (wando, or alaska if necessary (in 2025, alaska became available 01/11) (in 2025, *lowe's* had wando available 2025-03-09)) (wando: 36 seeds per 8g pack) (alaska: 42 seeds per 8g pack): 1152
-- Long Carrots (long imperator 58) (530 per 700mg pack): 192
-- Short carrots (danvers) (530 per 700mg pack): 224
-- Broccoli (decicco) (206 per 700mg pack): 16
-- Chives (no variety) (180 seeds per 250mg pack)
-- Basil (sweet basil) (130 seeds per 175mg pack)
-- Parsley (flat italian) (284 seeds per 600mg pack)
-- Black beans (black turtle bush) (in 2025, *lowe's* had these available 2025-03-09) (79 seeds per 14g pack) (46 seeds per 7g pack): 130
 
 ### cooking
 Steamed green beans
