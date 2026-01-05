@@ -23,7 +23,7 @@
 - Broccoli (decicco) (206 per 700mg pack): 16
 - Chives (no variety) (180 seeds per 250mg pack) (in 2025, these became available 01/11)
 - Basil (sweet basil) (130 seeds per 175mg pack) (in 2025, these became available 01/04)
-- Parsley (flat italian) (284 seeds per 600mg pack)
+- Parsley (flat italian) (284 seeds per 600mg pack) (in 2025, these became available 01/11)
 - Black beans (black turtle bush) (in 2025, *lowe's* had these available 2025-03-09) (79 seeds per 14g pack) (46 seeds per 7g pack): 130
 
 #### 02/18 plant basil  (2 beds on side of house, same ones as black beans; 9 inches from edge, every 16 inches; single row 9 inches from edge)
