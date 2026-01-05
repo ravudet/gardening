@@ -13,6 +13,7 @@
     - chives (don't buy if you already have an unopened pack)
     - basil (don't buy if you already have an unopened pack)
     - parsley (don't buy if you already have an unopened pack)
+- add that list to your weekly routine
 
 ### seed counts
 
