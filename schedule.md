@@ -143,14 +143,13 @@
 #### 12/28 buy seeds + start looking for new seeds
 
 - check your current seed library and use [seed counts](#seed-counts) to see how many seeds you need to be buy
-
-- green beans
-- long carrots (don't buy if you already have an unopened pack)
-- short carrots (don't buy if you already have an unopened pack)
-- broccoli (don't buy if you already have an unopened pack)
-- chives (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
-- basil (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/04; record when they do become available)
-- parsley (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
+    - green beans
+    - long carrots (don't buy if you already have an unopened pack)
+    - short carrots (don't buy if you already have an unopened pack)
+    - broccoli (don't buy if you already have an unopened pack)
+    - chives (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
+    - basil (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/04; record when they do become available)
+    - parsley (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
 
 ### seed counts
 - Chives (no variety) (180 seeds per 250mg pack)
