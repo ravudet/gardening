@@ -12,7 +12,7 @@
     - broccoli (don't buy if you already have an unopened pack)
     - chives (don't buy if you already have an unopened pack)
     - basil (don't buy if you already have an unopened pack)
-    - parsley (don't buy if you already have an unopened pack) (these may not be available yet; they will definitely become available by 01/11; record when they do become available)
+    - parsley (don't buy if you already have an unopened pack)
 
 ### seed counts
 
