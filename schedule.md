@@ -142,7 +142,7 @@
 
 #### 12/28 buy seeds + start looking for new seeds
 
-- check your current seed library and use [seed counts](#seedcounts) to see how many seeds you need to be buy
+- check your current seed library and use [seed counts](#seed-counts) to see how many seeds you need to be buy
 
 - green beans
 - long carrots (don't buy if you already have an unopened pack)
