@@ -11,15 +11,15 @@
 #### 01/04 buy seeds + start looking for new seeds
 
 - check your current seed library and use [seed counts](#seed-counts) to see how many packs of each you need to be buy
-    - green beans
-    - peas
-    - black beans
-    - long carrots (don't buy if you already have an unopened pack)
-    - short carrots (don't buy if you already have an unopened pack)
-    - broccoli (don't buy if you already have an unopened pack)
-    - chives (don't buy if you already have an unopened pack)
-    - basil (don't buy if you already have an unopened pack)
-    - parsley (don't buy if you already have an unopened pack)
+    - green beans (blue lake 156)
+    - peas (alaska)
+    - black beans (black turtle bush)
+    - long carrots (long imperator 58) (don't buy if you already have an unopened pack)
+    - short carrots (danvers) (don't buy if you already have an unopened pack)
+    - broccoli (decicco) (don't buy if you already have an unopened pack)
+    - chives (no variety) (don't buy if you already have an unopened pack)
+    - basil (sweet basil) (don't buy if you already have an unopened pack)
+    - parsley (flat italian) (don't buy if you already have an unopened pack)
 - add that list to your weekly routine
 
 #### 02/18 plant basil  (2 beds on side of house, same ones as black beans; 9 inches from edge, every 16 inches; single row 9 inches from edge)
