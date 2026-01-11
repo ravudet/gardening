@@ -2,6 +2,12 @@
 
 ### Planting (when harvesting, check photos for what you did when planting to make adjustments):
 
+#### 01/11 start buying soil
+
+- see how much soil you need
+- add buying soil to your weekly routine
+- remember to bring gloves to pick up the soil
+
 #### 01/04 buy seeds + start looking for new seeds
 
 - check your current seed library and use [seed counts](#seed-counts) to see how many packs of each you need to be buy
