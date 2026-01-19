@@ -8,7 +8,7 @@
 - add buying soil to your weekly routine
 - remember to bring gloves to pick up the soil
 
-#### 01/04 buy seeds + start looking for new seeds
+#### 01/18 buy seeds + start looking for new seeds
 
 - check your current seed library and use [seed counts](#seed-counts) to see how many packs of each you need to be buy
     - green beans (blue lake 156)
