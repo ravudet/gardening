@@ -195,3 +195,53 @@ https://www.thespruce.com/how-to-grow-basil-plants-1402624
 https://www.thespruce.com/grow-parsley-1402629
 
 https://www.thespruce.com/chives-plant-care-growing-guide-5078626
+
+### watering rig instructions
+
+```
+NOTE: for the square bed, pieces C and D are 6 1/8" long
+
+when you go to the store, bring your PVC clippers, tape measure, and pencil so that you can fit the pipe in your car
+cut the pipe at 45.25" so it can fit in the car
+
+  A     A
+ ^^^^ ^^^^
+     F      
+     |      } D
+F----|----F } B
+     |      } C
+F----|----F } B
+     |      } C
+F----|----F } B
+     |      } C
+F----|----F } B
+     |      } C
+F----|----F } B
+     |      } C
+F----|----F } B
+     |      } C
+F----|----F } B
+     |      } C
+F----|----F } B
+     |      } E
+     G
+
+
+
+A = 16 units of 3/4" PVC pipe, 22 10/16" long
+C = 8 units of 3/4" PVC pipe, 8 10/16" long
+D = 1 unit of 3/4" PVC pipe, 8 10/16" long
+E = 1 unit of 3/4" PVC pipe, 8 11/16" long
+H = 1 unit of 3/4" PVC pipe, 12" long; connects the elbow to the fht
+
+B = 8 units of 3/4" PVC cross fitting
+F = 17 units of 3/4" PVC cap fitting
+G = 1 unit of 3/4" elbow fitting
+I = 1 unit of 3/4" PVC slip x fht fitting (the garden hose adapter)
+
+total length of PVC pipe:
+5 units of 3/4" 10' long pipe
+
+use 1/16 drill bit to drill 5 holes in each A piece at 2.5, 7, 11.5, 16, and 20.5 inches from the center
+place the rig with the holes face up (face down if you realize wind is a problem and going face down doesn't erode the soil)
+```
