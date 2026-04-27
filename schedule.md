@@ -100,7 +100,7 @@
 - single bed: 1 inch from edge, every 2 inches; 192 seeds
 - 384 total seeds
 
-#### 06/20 harvest carrots
+#### 06/20 harvest long carrots
 #### 06/25 plant long carrots (square bed in back yard)
 
 - 1 inch from edge, every 2 inches; 6 inches from edge, every 12 inches; 96 seeds
