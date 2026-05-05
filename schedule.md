@@ -266,6 +266,6 @@ total length of PVC pipe:
 1 B
 4 E's
 
-use 1/16 drill bit to drill 5 holes in each D piece at 2.5, 7, 11.5, 16, and 20.5 inches from the center
+use 1/16 drill bit to drill 5 holes in each D piece at TODO, TODO, TODO, TODO, and TODO inches from the center
 place the rig with the holes face down, supported by the E + F pieces
 ```
