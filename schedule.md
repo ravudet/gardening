@@ -199,49 +199,73 @@ https://www.thespruce.com/chives-plant-care-growing-guide-5078626
 ### watering rig instructions
 
 ```
-NOTE: for the square bed, pieces C and D are 6 1/8" long
+TODO: you might be able to go cheaper by "building" a cross fitting yourself with 2 tee fittings
 
 when you go to the store, bring your PVC clippers, tape measure, and pencil so that you can fit the pipe in your car
-cut the pipe at 45.25" so it can fit in the car
+cut the pipe at 66" so it can fit in the car (each 66" part should be used for 3 D's)
 
-  A     A
- ^^^^ ^^^^
-     F      
-     |      } D
-F----|----F } B
-     |      } C
-F----|----F } B
-     |      } C
-F----|----F } B
-     |      } C
-F----|----F } B
-     |      } C
-F----|----F } B
-     |      } C
-F----|----F } B
-     |      } C
-F----|----F } B
-     |      } C
-F----|----F } B
-     |      } E
-     G
+front:
+
+      A
+      B
+CDDDDDCDDDDDC
+E           E
+F           F
+
+back:
+
+      A
+      B
+CDDDDDGDDDDDC
+E           E
+F           F
 
 
+side:
 
-A = 16 units of 3/4" PVC pipe, 22 10/16" long
-C = 8 units of 3/4" PVC pipe, 8 10/16" long
-D = 1 unit of 3/4" PVC pipe, 8 10/16" long
-E = 1 unit of 3/4" PVC pipe, 8 11/16" long
-H = 1 unit of 3/4" PVC pipe, 12" long; connects the elbow to the fht
+A
+B
+CHHCHHFHHFHHC
+   E        E
+   F        F
 
-B = 8 units of 3/4" PVC cross fitting
-F = 17 units of 3/4" PVC cap fitting
-G = 1 unit of 3/4" elbow fitting
-I = 1 unit of 3/4" PVC slip x fht fitting (the garden hose adapter)
+top:
+
+      A
+      H
+CDDDDDIDDDDDC
+      H
+FDDDDDIDDDDDF
+      H
+FDDDDDIDDDDDF
+      H
+CDDDDDGDDDDDC
+
+
+
+A = 1 unit of 3/4" PVC slip x fht fitting (the garden hose adapter)
+B = 1 unit of 3/4" PVC pipe, 6" long;
+C = 5 units of 3/4" PVC elbow fitting
+D = 8 units of 3/4" PVC pipe, 22" long
+E = 4 units of 3/4" PVC pipe, 2" long
+F = 8 units of 3/4" PVC cap fitting
+G = 1 unit of 3/4" PVC tee fitting
+H = 4 units of 3/4" PVC pipe, 8 10/16" long
+I = 3 units of 3/4" PVC cross fitting
 
 total length of PVC pipe:
-5 units of 3/4" 10' long pipe
+2 units of 3/4" 10' long pipe
 
-use 1/16 drill bit to drill 5 holes in each A piece at 2.5, 7, 11.5, 16, and 20.5 inches from the center
-place the rig with the holes face up (face down if you realize wind is a problem and going face down doesn't erode the soil)
+10' pipe #1:
+5 D's
+1 H
+
+10' pipe #2:
+3 D's
+3 H's
+1 B
+4 E's
+
+use 1/16 drill bit to drill 5 holes in each D piece at 2.5, 7, 11.5, 16, and 20.5 inches from the center
+place the rig with the holes face down, supported by the E + F pieces
 ```
